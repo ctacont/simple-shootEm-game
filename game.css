@@ -57,8 +57,8 @@ body {
   box-shadow: 0 0 0px 5px blue;
   overflow: hidden;
   min-width: auto;
-  height: auto;
-  max-height: 800px;
+  height: 100%;
+  max-height: 80vh;
   aspect-ratio: 16 / 9;
   margin: auto;
   margin-top: 11px;
