@@ -29,7 +29,7 @@ body {
   position: relative;
   z-index: 1;
   width: 100%;
-  height: auto;
+  height: 100vh;
   left: 0;
   top: 0;
   aspect-ratio: 16/9;
